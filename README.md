@@ -18,8 +18,7 @@ const shaksham = {
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "Mongoose"],
-            python: ["flask"]
+            js: ["node", "express", "Mongoose"]
         },
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium"]
