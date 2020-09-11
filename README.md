@@ -15,15 +15,15 @@ const shaksham = {
         mobileApp: ["React Native"],
         frontEnd: {
             js: ["ReactJS", "NextJS"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            css: ["materialize", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express", "Mongoose"]
         },
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium"]
+        misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
