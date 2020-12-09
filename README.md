@@ -9,7 +9,7 @@
 ```javascript
 const shaksham = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C", "Python", "C++"],
+    code: ["Javascript", "C", "Python", "C++","Typescript"],
     askMeAbout: ["web dev", "tech", "robotics", "gaming"],
     technologies: {
         mobileApp: ["React Native"],
@@ -21,7 +21,7 @@ const shaksham = {
             js: ["node", "express", "Mongoose"]
         },
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO"]
+        misc: ["Firebase", "DevOps"]
     },
     architecture: ["Serverless Architecture", "Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
